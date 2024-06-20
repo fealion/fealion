@@ -35,6 +35,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fealion/fealion/output/snake.svg" alt="Snake animation" />
-
 ###
