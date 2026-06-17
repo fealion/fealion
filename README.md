@@ -12,8 +12,7 @@
 
 ###
 
-<p align="left">i will code stuff at some point</p>
-<p align="right">tniop emos ta ffuts edoc lliw i</p>
+<p align="left">i will code stuff at some point</p> <p align="right">tniop emos ta ffuts edoc lliw i</p>
 
 ###
 
