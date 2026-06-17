@@ -18,10 +18,10 @@
 
 <div align="center">
   <a href="https://x.com/FealionStuff" target="_blank">
-    <img src="https://raw.githubusercontent.com/fealion/fealion/refs/heads/main/ezgif.com-animated-gif-maker.gif" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/fealion/fealion/refs/heads/main/ezgif.com-animated-gif-maker.gif" width="256" height="256" alt="twitter logo"  />
   </a>
   <a href="https://www.youtube.com/@fealionstuff" target="_blank">
-    <img src="https://raw.githubusercontent.com/fealion/fealion/refs/heads/main/youtub.png" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/fealion/fealion/refs/heads/main/youtub.png" width="256" height="256" alt="youtube logo"  />
   </a>
 </div>
 
