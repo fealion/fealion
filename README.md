@@ -12,7 +12,8 @@
 
 ###
 
-<p align="left">i only still use this acount becuse i have my gmod stuff saved here </p>
+<p align="left">i will code stuff at some point</p>
+<p align="right">tniop emos ta ffuts edoc lliw i</p>
 
 ###
 
